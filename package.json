@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "authorizenet": "^1.0.8",
-    "body-parser": "~1.15.2",
+    "body-parser": "~1.20.0",
     "cookie-parser": "~1.4.3",
     "debug": "~2.3.2",
     "express": "~4.14.0",
