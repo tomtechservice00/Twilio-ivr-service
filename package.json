@@ -38,7 +38,7 @@
     "serve-favicon": "~2.3.2",
     "sqlite3": "^5.0.8",
     "stylus": "0.54.5",
-    "twilio": "^3.0.0-rc.17",
+    "twilio": "^3.83.3",
     "validator": "^13.7.0"
   },
   "devDependencies": {
