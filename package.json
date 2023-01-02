@@ -42,7 +42,7 @@
     "validator": "^13.7.0"
   },
   "devDependencies": {
-    "eslint": "^3.19.0",
+    "eslint": "^8.31.0",
     "eslint-config-google": "^0.7.1",
     "jest": "^19.0.2"
   }
